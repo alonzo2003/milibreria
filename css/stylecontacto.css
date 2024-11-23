@@ -1,10 +1,10 @@
 .container {
     margin: 50px;
     padding: 12;
-    background-color: #2a1c1c ;
+    background-color: #377b8e ;
 }
 
 .form-section {
     background-color: #ffffff; /* Cambia el color del fondo de la sección del formulario */
-    color: #333; /* Cambia el color del texto */
+    color: #3f8d9b; /* Cambia el color del texto */
 }
