@@ -1,0 +1,10 @@
+.container {
+    margin: 50px;
+    padding: 12;
+    background-color: #2a1c1c ;
+}
+
+.form-section {
+    background-color: #ffffff; /* Cambia el color del fondo de la sección del formulario */
+    color: #333; /* Cambia el color del texto */
+}
